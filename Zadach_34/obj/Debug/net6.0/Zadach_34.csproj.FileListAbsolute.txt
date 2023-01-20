@@ -1,0 +1,15 @@
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\bin\Debug\net6.0\Zadach_34.exe
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\bin\Debug\net6.0\Zadach_34.deps.json
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\bin\Debug\net6.0\Zadach_34.runtimeconfig.json
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\bin\Debug\net6.0\Zadach_34.dll
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\bin\Debug\net6.0\Zadach_34.pdb
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\obj\Debug\net6.0\Zadach_34.csproj.AssemblyReference.cache
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\obj\Debug\net6.0\Zadach_34.GeneratedMSBuildEditorConfig.editorconfig
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\obj\Debug\net6.0\Zadach_34.AssemblyInfoInputs.cache
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\obj\Debug\net6.0\Zadach_34.AssemblyInfo.cs
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\obj\Debug\net6.0\Zadach_34.csproj.CoreCompileInputs.cache
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\obj\Debug\net6.0\Zadach_34.dll
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\obj\Debug\net6.0\refint\Zadach_34.dll
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\obj\Debug\net6.0\Zadach_34.pdb
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\obj\Debug\net6.0\Zadach_34.genruntimeconfig.cache
+D:\!учеба программированию\C#\DZ_5_prog\Zadach_34\obj\Debug\net6.0\ref\Zadach_34.dll
